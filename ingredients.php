@@ -1,6 +1,7 @@
 <?php 
 $pageTitle="Ingredients";
 $headerImage="images/4.jpeg";
+$pageKey="ingredients";
 include __DIR__."/inc/header.inc.php";
 
 ?>

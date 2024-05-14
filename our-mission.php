@@ -1,6 +1,7 @@
 <?php 
 $pageTitle="Our Mission";
 $headerImage="images/1.jpeg";
+$pageKey="mission";
 
 include __DIR__."/inc/header.inc.php";
 

@@ -1,6 +1,7 @@
 <?php
 $pageTitle = "Menu";
 $headerImage = "images/2.jpeg";
+$pageKey="menu";
 include __DIR__ . "/inc/header.inc.php";
 
 
