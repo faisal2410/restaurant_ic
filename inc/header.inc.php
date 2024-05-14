@@ -15,7 +15,7 @@
         <p>Your sanctuary for exceptional flavors</p>
         <nav>
             <?php $pageKey = $pageKey ?? "" ?>
-            <a class="<?php if ($pageKey === "mission") echo 'active' ?>" href="index.php">Our mission</a>
+            <a class="<?php if ($pageKey === "mission") echo 'active' ?>" href="our-mission.php">Our mission</a>
             <a class="<?php if ($pageKey === "ingredients") echo 'active' ?>" href="ingredients.php">Our Ingredients</a>
             <a class="<?php if ($pageKey === "menu") echo 'active' ?>" href="menu.php">Menu</a>
         </nav>
